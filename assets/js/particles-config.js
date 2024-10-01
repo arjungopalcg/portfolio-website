@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded', function() {
 /* particles-config.js */
 
 particlesJS('particles-js', {
@@ -102,3 +103,5 @@ particlesJS('particles-js', {
     },
     retina_detect: true
   });
+
+});
